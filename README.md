@@ -1,0 +1,7 @@
+# What-s-Up-Old
+Previously published school chat board.
+This is my first development project of scale which I coded during my junior year of high school. The code for this project is very ugly and does not represent my current coding abilities. However, I still regard this project as one of my greatest accomplishments of high school. Having no formal education in coding I would like to thank a lot of the resources I used to learn: [TheNewBoston](https://www.youtube.com/user/thenewboston), [Ray Wenderlich](https://www.raywenderlich.com/), and [Harvard CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x). 
+
+I removed this project from the App Store once Parse was shutdown in January of 2017. However, I plan on launching an updated version of the app out by May 8th 2018. I do not expect this project to ever become too popular however I love applying a lot of this skills I am learning in school to larger scale projects. I started off rewriting the app using the open source version of ParseServer however I am currently taking a [class on JavaScript](http://www.seas.upenn.edu/~cis197/) so I decided to write my own backend using node. I am also applying a lot of the techniques I learned from a class I took last semester in [functional programming](https://www.seas.upenn.edu/~cis120/current/) (callbacks make more sense now) and the MVC principles taught in [Stanford’s 193p class](https://www.youtube.com/playlist?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai). 
+
+
